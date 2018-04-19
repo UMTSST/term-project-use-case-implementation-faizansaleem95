@@ -1,5 +1,10 @@
-Name: Muhammad Faizan Saleem
+Muhammad Faizan Saleem
 
-Use Case: Inserting data into the file 
+Term Project: SafeCity Project
 
-Project: SafeCity Project
+Use Case: User Log In System
+
+Actors: User, Log In System
+Data: Log In Information
+Stimulus: User entering the log in information
+Response: Log In verification 
