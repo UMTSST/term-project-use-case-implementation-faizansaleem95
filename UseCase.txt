@@ -2,9 +2,9 @@ Muhammad Faizan Saleem
 
 Term Project: SafeCity Project
 
-Use Case: User Log In System
+Use Case: Showing user traffic congestion across city
 
-Actors: User, Log In System
-Data: Log In Information
-Stimulus: User entering the log in information
-Response: Log In verification 
+Actors: User, Input System
+Data: User Input
+Stimulus: User entering the area to check congestion
+Response: Wether congestion is found or not
